@@ -2,8 +2,6 @@
 
 Fully functional React Native app + Node Rest API that features Video Calls backed by Twilio.
 
-Tutorial on https://medium.com/@reynaldojesus23/serverless-graphql-api-with-hasura-and-aws-stack-614d4392d8a
-
 ## Twilio Setup
 
 - Register on Twilio https://www.twilio.com/try-twilio and verify both email and phone number.
